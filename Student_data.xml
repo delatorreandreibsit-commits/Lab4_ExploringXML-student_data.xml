@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+<student>
+        <id>008</id>
+        <name>Dela Torre, Andrei</name>
+        <email>delatorreandrei_bsit@plmun.edu.ph</email>
+        <city>Muntinlupa City</city>
+        <course>BSIT</course>
+        <year>3</year>
+    </student>
+</students>
